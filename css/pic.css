@@ -1,0 +1,12 @@
+.pub-fig{
+    width:250px;
+    object-fit: contain;
+    padding-top:25px;
+}
+.container{
+    margin-top: 100px;
+  }
+
+body{
+    padding-top: 65px; 
+}
